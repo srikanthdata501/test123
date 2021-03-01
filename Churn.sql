@@ -1,4 +1,4 @@
---select * from "ML_WORKSHOP"."PUBLIC"."CUSTOMER_CHURN" limit 100;
+/*--select * from "ML_WORKSHOP"."PUBLIC"."CUSTOMER_CHURN" limit 100; */
 /*
     Welcome to your first dbt model!
     Did you know that you can also configure models directly within SQL files?
