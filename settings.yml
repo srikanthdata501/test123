@@ -1,0 +1,16 @@
+config:
+  partial_parse:  'false'
+  use_colors: 'false'
+  printer_width: 200
+  send_anonymous_usage_stats: 'true'
+
+<profile-name>:
+  target: 
+  outputs:
+    <target-name>: ML_WORKSHOP
+      type: snowflake
+      schema: PUBLIC
+      threads: 
+
+      ### database-specific connection details
+  
