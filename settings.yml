@@ -1,7 +1,7 @@
 # Name your package! Package names should contain only lowercase characters
 # and underscores. A good package name should reflect your organization's
 # name or the intended use of these models
-name: 'dbt_tpch'
+name: 'test123'
 version: '1.0'
 
 source-paths: ["models"]
@@ -36,8 +36,3 @@ models:
         schema: ods
       wh:
         schema: wh
-© 2021 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
